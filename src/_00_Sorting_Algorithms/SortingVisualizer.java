@@ -12,11 +12,11 @@ import javax.swing.JPanel;
 
 public class SortingVisualizer extends JLabel{
 	private static final long serialVersionUID = 1L;
-	private static final int WIDTH = 500;
-	private static final int HEIGHT = 500;
+	private static final int WIDTH = 1000;
+	private static final int HEIGHT = 1000;
 	
-	private static final int ARRAY_SIZE = 250;
-	private static final int MAX = 500;
+	private static final int ARRAY_SIZE = 500;
+	private static final int MAX = 1000;
 	
 	private int cellWidth;
 	
